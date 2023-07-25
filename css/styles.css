@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+body {
+    background-image: url(https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+
+.teaMenu{
+    background-color: transparent;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.teaPrice{
+    text-align: right;
+    display: inline-block;
+    font-size: 20px;
+    background-color: rgba(202, 202, 166, 0.822);
+}
+
+.teaCollection{
+    text-align: left;
+    display: inline-block;
+    font-weight: 600;
+    width: 75%;
+    font-size: 20px;
+    background-color: rgba(202, 202, 166, 0.822);
+}
+
+img{
+    margin-top: 20px;
+    align-items: center;
+
+}
+
+.collectionPrice{
+    text-align: right;
+    display: inline-block;
+    font-size: 20px;
+    background-color: rgba(202, 202, 166, 0.822);
+}
+
+.teaItem{
+    width: 100%;
+    color: black;
+    display: inline-block;
+    height: 10px;
+}
+
+
+.teaFlavor{
+    text-align: left;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 20px;
+    width: 75%;
+    background-color: rgba(202, 202, 166, 0.822);
+}
+
+    a {
+    color: white;
+    }
+
+  a:hover{
+    color: black;
+  }
+  
+  .established{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 25px;
+    text-shadow: 4px 1px 9px rgba(210,203,203,0.91);
+  }
+
+  h1{
+    font-size: 40px;
+    padding: 10px;
+    background-color: rgba(202, 202, 77, 0.911);
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 25px;
+  }
+
+  .flavored-tea, .herbal-tea{
+    font-size: 25px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.822);
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+
