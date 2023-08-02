@@ -29,11 +29,13 @@ h1, h2, p {
 h1 {
   font-size: 30px;
   margin: 10px;
+  font-style: italic;
 }
 
 h2 {
   font-size: 20px;
   font-style: italic;
+  color: rgb(183, 183, 40);
 }
 
 hr {
